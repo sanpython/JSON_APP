@@ -1,0 +1,2 @@
+Hello 
+This is Static File in Django Project!
